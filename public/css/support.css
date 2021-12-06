@@ -1,0 +1,34 @@
+h1 {
+  text-align: center;
+  color: #0a2239;
+}
+h2 {
+  text-align: center;
+  color: #f19a3e;
+}
+h3 {
+  text-align: center;
+  background-color: #0a2239;
+  color: #d0efb1;
+}
+h4 {
+  text-align: center;
+  color: #f19a3e;
+}
+a {
+  color: #58a4b0;
+}
+a:hover {
+  background-color: #f19a3e;
+  color: white;
+}
+p {
+  font-size: large;
+  font-weight: bold;
+}
+#supportPic {
+  width: 50%;
+  margin: 10px;
+  justify-content: center;
+  text-align: center;
+}
